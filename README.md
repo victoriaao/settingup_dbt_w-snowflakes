@@ -13,3 +13,10 @@ Try running the following commands:
 - Join the [chat](https://community.getdbt.com/) on Slack for live discussions and support
 - Find [dbt events](https://events.getdbt.com) near you
 - Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+
+### Project Goals
+- Internalize the dbt viewpoint on modern analytics
+- Confidently setup a simple, modern data environment with snowflakes
+- Efficiently build a dbt project from scratch
+- Optimize workflows through automation
+- Differentiate dbt CLI vs dbt Cloud
